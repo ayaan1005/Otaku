@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'NzE0NjQxMjU0NTQ1MzU4ODk5.Xux-tA.OA1UTq37Pkk--VSaQzdVSXtGcbQ';
+const token = 'NzE1NTI1NjM4ODg2MzkxODI5.XvJJpw.oU8gtjT6t8POK9dEDfxhNo-aAWM';
 const PREFIX = '+';
 
 client.on('ready', () => {
