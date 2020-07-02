@@ -8,5 +8,5 @@ client.on('message', message => {
  message.reply(message.author.avatarURL);
   }
 });
-client.login(token);
+client.login(process.env.BOT_TOKEN);
 
