@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const cfg = require('./config.json');
 require('dotenv/config');
-const token = process.env.NzE1NTI1NjM4ODg2MzkxODI5.Xvxn6w.ejKGSMk2G9YYsuP_dZB2FcLN7TQ;
+const token = process.env.NzE1NTI1NjM4ODg2MzkxODI5.Xv2YzA._WlVVhjm3NhoLHUJ43A2avG6_Rw;
 const prefix = cfg.prefix;
 const fs = require('fs'); //creates a new client
 const client = bot;
