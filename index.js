@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const cfg = require('./config.json');
 require('dotenv/config');
-const token = process.env.otakugirl;
+const token = process.env.token;
 const prefix = cfg.prefix;
 const fs = require('fs'); //creates a new client
 const client = bot;
