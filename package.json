@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "otaku",
-=======
   "name": "otaku",
->>>>>>> origin/master
   "version": "1.0.0",
   "description": "bot",
   "main": "index.js",
